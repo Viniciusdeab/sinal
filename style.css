@@ -1,0 +1,11 @@
+body{
+    display:grid;
+    place-items: center;
+    height:100vh;
+    margin:0;
+    background-color: #050801;
+}
+
+.wifi-loader{
+    width:20px
+}
